@@ -1,0 +1,23 @@
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Hosting.exe
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Hosting.pdb
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\obj\x86\Debug\Hosting.exe
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\obj\x86\Debug\Hosting.pdb
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\obj\x86\Debug\Hosting.csprojResolveAssemblyReference.cache
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Contracts.dll
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Services.dll
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Contracts.pdb
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Services.pdb
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\obj\x86\Debug\Hosting.exe
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\obj\x86\Debug\Hosting.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Hosting.exe
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Hosting.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Contracts.dll
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Services.dll
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Contracts.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\bin\Debug\Services.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Hosting\obj\x86\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\Hosting\obj\x86\Debug\Hosting.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\Hosting\obj\x86\Debug\Hosting.pdb

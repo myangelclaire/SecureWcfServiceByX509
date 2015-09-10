@@ -1,0 +1,14 @@
+C:\Users\coochen.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\bin\WcfService2.dll
+C:\Users\coochen.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\bin\WcfService2.pdb
+C:\Users\coochen.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\coochen.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\coochen.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WcfService2\bin\WcfService2.dll
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WcfService2\bin\WcfService2.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\bin\WcfService2.dll
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\bin\WcfService2.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WcfService2\obj\Debug\WcfService2.pdb

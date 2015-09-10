@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\WebSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WcfService1.dll" publishTime="07/04/2014 11:50:54" />
+    <file relUrl="bin/WcfService1.pdb" publishTime="07/04/2014 11:50:54" />
+    <file relUrl="Web.config" publishTime="07/15/2014 17:52:19" />
+    <file relUrl="Service1.svc" publishTime="06/30/2014 12:43:04" />
+    <file relUrl="bin/Contracts.pdb" publishTime="07/04/2014 11:50:52" />
+    <file relUrl="bin/Contracts.dll" publishTime="07/04/2014 11:50:52" />
+  </publishProfile>
+</publishData>

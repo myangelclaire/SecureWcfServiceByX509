@@ -1,0 +1,5 @@
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient3\bin\Debug\WebClient3.exe.config
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient3\bin\Debug\WebClient3.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient3\bin\Debug\WebClient3.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient3\obj\x86\Debug\WebClient3.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient3\obj\x86\Debug\WebClient3.pdb

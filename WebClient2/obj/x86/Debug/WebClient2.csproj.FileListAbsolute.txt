@@ -1,0 +1,15 @@
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient2\bin\Debug\WebClient2.exe.config
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient2\bin\Debug\WebClient2.exe
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient2\bin\Debug\WebClient2.pdb
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient2\obj\x86\Debug\WebClient2.exe
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient2\obj\x86\Debug\WebClient2.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient2\bin\Debug\WebClient2.exe.config
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient2\bin\Debug\WebClient2.exe
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient2\bin\Debug\WebClient2.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient2\obj\x86\Debug\WebClient2.exe
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient2\obj\x86\Debug\WebClient2.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient2\bin\Debug\WebClient2.exe.config
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient2\obj\x86\Debug\WebClient2.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient2\obj\x86\Debug\WebClient2.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient2\bin\Debug\WebClient2.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient2\bin\Debug\WebClient2.pdb

@@ -1,0 +1,15 @@
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient\bin\Debug\WebClient.exe.config
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient\bin\Debug\WebClient.exe
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient\bin\Debug\WebClient.pdb
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient\obj\x86\Debug\WebClient.exe
+C:\Users\coochen.DMS\documents\visual studio 2010\Projects\WcfServices\WebClient\obj\x86\Debug\WebClient.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient\bin\Debug\WebClient.exe.config
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient\bin\Debug\WebClient.exe
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient\bin\Debug\WebClient.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient\obj\x86\Debug\WebClient.exe
+C:\Users\cfan\Desktop\WcfServices\WcfServices\WebClient\obj\x86\Debug\WebClient.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient\bin\Debug\WebClient.exe.config
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient\obj\x86\Debug\WebClient.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient\obj\x86\Debug\WebClient.pdb
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient\bin\Debug\WebClient.exe
+C:\Users\cfan.DMS\Documents\Visual Studio 2010\Projects\WcfServices\WebClient\bin\Debug\WebClient.pdb

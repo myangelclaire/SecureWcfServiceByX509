@@ -1,0 +1,9 @@
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Contracts\bin\Debug\Contracts.dll
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Contracts\bin\Debug\Contracts.pdb
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Contracts\obj\Debug\Contracts.dll
+c:\users\coochen.dms\documents\visual studio 2010\Projects\WcfServices\Contracts\obj\Debug\Contracts.pdb
+C:\Users\coochen.DMS\Documents\Visual Studio 2010\Projects\WcfServices\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Contracts\bin\Debug\Contracts.dll
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Contracts\bin\Debug\Contracts.pdb
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Contracts\obj\Debug\Contracts.dll
+C:\Users\cfan\Desktop\WcfServices\WcfServices\Contracts\obj\Debug\Contracts.pdb
